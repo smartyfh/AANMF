@@ -6,4 +6,4 @@ Code in Matlab for the paper "Adaptive Affinity Learning for Accurate Community 
 
 + Check AANMF.m for the main program.
 
-If there are any problems, please contact me at smartyfh@outlook.com.
++ If there are any problems, please contact me at smartyfh@outlook.com.
